@@ -1,4 +1,4 @@
 # saranyasa-demo
 This is my 1st Git Repository.
 <br>
-Auther: Saranay Sa(siza here)
+Auther: Saranay Sa(hello! siza here)
